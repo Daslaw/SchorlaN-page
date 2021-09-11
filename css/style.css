@@ -11,7 +11,7 @@ nav{
     color:#00A39A;
 }
 main{
-    background-image:   linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0.69)), url(../images/signin_bg.png);
+    background-image:   linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0.69)), url(../images/signin.png);
     background-size: cover;
     height: 100vh;
     padding: 50px;
